@@ -7,6 +7,15 @@ content="width=device-width,initial-scale=1.0" />
 <title>About Me</title>
 </head>
 <body>
+<div class="social-links">
+<a href="#"Linkedln</a>
+,a href="#"github</a>
+<ahref="#">portfolio</a>
+</div>
+
+
+
 
 </body>
 </html>
+
